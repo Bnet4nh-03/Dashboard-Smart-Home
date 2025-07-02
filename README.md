@@ -13,4 +13,7 @@ Hệ thống điều khiển và giám sát thông minh, giúp người dùng th
 ![Sơ đồ luồng dữ liệu](images/5.png)
 
 #Giao diện trang home
-![Sơ đồ chức năng](images/11.png)
+<p align="center">
+  <img src="images/11.jpg" width="400">
+</p>
+
