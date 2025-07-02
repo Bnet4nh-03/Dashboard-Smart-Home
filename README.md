@@ -1,16 +1,16 @@
 # dashboard
 
-A new Flutter project.
+Hệ thống điều khiển và giám sát thông minh, giúp người dùng theo dõi thời tiết theo thời gian thực với các thông số như nhiệt độ, độ ẩm, ánh sáng và chất lượng không khí, đồng thời điều khiển thiết bị ESP32 từ xa thông qua kết nối WiFi (HTTP) hoặc Bluetooth (BLE).
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+#Sơ đồ chức năng
+![Sơ đồ chức năng](images/sodochucnang.png)
+#Sơ đồ luồng dữ liệu mức đỉnh
+![Sơ đồ luồng dữ liệu](images/luongdulieumucdinh.png)
+#Sơ đồ luồng dữ liệu của chức năng quản lý người dùng, hiển thị thời tiết.
+![Sơ đồ luồng dữ liệu](images/4.png)
+#Sơ đồ luồng dữ liệu  của chức năng điều khiển ESP32
+![Sơ đồ luồng dữ liệu](images/5.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Giao diện trang home
+![Sơ đồ chức năng](images/11.png)
