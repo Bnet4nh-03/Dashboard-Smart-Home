@@ -1,3 +1,4 @@
+ngcongvietanh_01112003
 # dashboard
 
 A smart monitoring and control system that allows users to track real-time weather conditions such as temperature, humidity, light intensity, and air quality, while remotely controlling ESP32 devices via WiFi (HTTP) or Bluetooth (BLE) connection.
