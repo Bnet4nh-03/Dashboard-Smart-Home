@@ -1,37 +1,37 @@
 # dashboard
 
-Hệ thống điều khiển và giám sát thông minh, giúp người dùng theo dõi thời tiết theo thời gian thực với các thông số như nhiệt độ, độ ẩm, ánh sáng và chất lượng không khí, đồng thời điều khiển thiết bị ESP32 từ xa thông qua kết nối WiFi (HTTP) hoặc Bluetooth (BLE).
+A smart monitoring and control system that allows users to track real-time weather conditions such as temperature, humidity, light intensity, and air quality, while remotely controlling ESP32 devices via WiFi (HTTP) or Bluetooth (BLE) connection.
 
 
-#Sơ đồ chức năng
+#Function Diagram
 
 <p align="center">
   <img src="images/sodochucnang.png" width="400">
 </p>
 
 
-#Sơ đồ luồng dữ liệu mức đỉnh
+#Context-Level Data Flow Diagram (Level 0 DFD)
 
 <p align="center">
   <img src="images/luongdulieumucdinh.png" width="400">
 </p>
 
 
-#Sơ đồ luồng dữ liệu của chức năng quản lý người dùng, hiển thị thời tiết.
+#Data Flow Diagram for User Management and Weather Display Function
 
 <p align="center">
   <img src="images/4.png" width="400">
 </p>
 
 
-#Sơ đồ luồng dữ liệu  của chức năng điều khiển ESP32
+#Data Flow Diagram for ESP32 Control Function
 
 <p align="center">
   <img src="images/5.png" width="400">
 </p>
 
 
-#Giao diện trang home
+#Home Page Interface
 <p align="center">
   <img src="images/11.jpg" width="200">
 </p>
